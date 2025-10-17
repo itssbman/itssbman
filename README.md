@@ -1,4 +1,4 @@
-## Hi, I'm Brian''💻💻
+## Hi, I'm Nnamdi''💻💻
 
 🧠front-end developer graduate from FORE TRUST DIGITAL CENTER and also from www.mygreatlearning.com<br/>
 🖊i program websites with html, css & JS<br/>
